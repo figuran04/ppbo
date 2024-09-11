@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '21 21 * * *'
   workflow_dispatch: 
+  push:
+    branches:
+      - main
 
 jobs:
   update:
@@ -23,10 +26,7 @@ jobs:
         pip install feedparser
 
     - name: Run script
-      run: python pertemuan2.py
-
-    - name: Run script
-      run: python pertemuan3.py
+      run: python pertemuan.py
 
     - name: Commit and push changes
       uses: EndBug/add-and-commit@v9
