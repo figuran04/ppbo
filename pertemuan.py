@@ -48,7 +48,7 @@ def update_readme(summary, readme_path, post_link):
 if __name__ == "__main__":
     posts = [
         ("https://medium.com/@dikaelsaputra/cara-instal-netbeans-ide-di-windows-7e29e0815459?source=rss-272e0aace4a6------2", 'pertemuan2/README.md'),
-        ("https://medium.com/@dikaelsaputra/netbeans-praktik-dasar-java-kelas-dan-objek-58e1f14e832a?source=rss-272e0aace4a6------2", 'pertemuan3/README.md')
+        ("https://medium.com/@dikaelsaputra/netbeans-praktik-dasar-java-kelas-dan-objek-58e1f14e832a?source=rss-272e0aace4a6------2", 'pertemuan3/README.md'),
         ("https://medium.com/@dikaelsaputra/enkapsulasi-dan-akses-modifier-2157af7cf274?source=rss-272e0aace4a6------2", 'pertemuan4/README.md')
     ]
     
