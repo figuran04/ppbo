@@ -87,5 +87,7 @@
               - [createdFiles.lst](/pertemuan4/PraktikumPBO_4/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst)
               - [inputFiles.lst](/pertemuan4/PraktikumPBO_4/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst)
   - [README.md](/pertemuan4/README.md)
+- [pertemuan5](/pertemuan5)
+  - [README.md](/pertemuan5/README.md)
 
 <!--END:structure-->
