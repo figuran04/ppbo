@@ -23,7 +23,7 @@ jobs:
 
     - name: Install dependencies
       run: |
-        pip install requests
+        pip install requests feedparser beautifulsoup4
 
     - name: Run script
       run: python main.py
