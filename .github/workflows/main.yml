@@ -33,4 +33,4 @@ jobs:
       with:
         author_name: 'GitHub Actions'
         author_email: 'actions@github.com'
-        message: 'Update Folder Structure'
+        message: 'Update README.md'
