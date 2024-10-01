@@ -1,0 +1,7 @@
+model\Makanan.class
+model\PegawaiKontrak.class
+model\Produk.class
+model\Elektronik.class
+model\Pegawai.class
+model\PegawaiTetap.class
+main\Main.class
