@@ -51,7 +51,8 @@ if __name__ == "__main__":
         ("https://medium.com/@dikaelsaputra/netbeans-praktik-dasar-java-kelas-dan-objek-58e1f14e832a?source=rss-272e0aace4a6------2", 'pertemuan3/README.md'),
         ("https://medium.com/@dikaelsaputra/enkapsulasi-dan-akses-modifier-2157af7cf274?source=rss-272e0aace4a6------2", 'pertemuan4/README.md'),
         ("https://medium.com/@dikaelsaputra/inheritance-dalam-java-2145648ad259?source=rss-272e0aace4a6------2", 'pertemuan5/README.md'),
-        ("https://medium.com/@dikaelsaputra/polimorfisme-dalam-pemrograman-java-39890c0a08ea?source=rss-272e0aace4a6------2", 'pertemuan6/README.md')
+        ("https://medium.com/@dikaelsaputra/polimorfisme-dalam-pemrograman-java-39890c0a08ea?source=rss-272e0aace4a6------2", 'pertemuan6/README.md'),
+        ("https://medium.com/@dikaelsaputra/abstraksi-dan-kelas-abstrak-dalam-pemrograman-java-f616a1260c80?source=rss-272e0aace4a6------2", 'pertemuan9/README.md')
     ]
     
     for post_link, readme_path in posts:
