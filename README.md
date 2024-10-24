@@ -20,10 +20,6 @@
     <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/inheritance-dalam-java-2145648ad259?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Inheritance dalam Java</a></h3><p>Inheritance dalam Java: Membuat Kelas TurunanInheritance atau pewarisan adalah salah satu konsep das...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/1024/0*j228EAaH0-pIXt2y.jpg" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
-  <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/enkapsulasi-dan-akses-modifier-2157af7cf274?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Enkapsulasi dan Akses Modifier</a></h3><p>Enkapsulasi dan Akses Modifier dalam Pemrograman Berorientasi ObjekDalam pemrograman berorientasi ob...</p></td>
-    <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/827/1*sUycVMDsajgARsD8W1t4uw.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
-  </tr>
 </table>
 </div>
 
