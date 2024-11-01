@@ -9,7 +9,7 @@
     <th style="border: 1px solid white; padding: 10px;">Thumbnail</th>
   </tr>
   <tr>
-    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/memahami-konsep-interface-dan-implementasinya-dalam-pemrograman-java-17ad4039398c?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Memahami Konsep Interface dan Implementasinya dalam Pemrograman Java</a></h3><p>Dalam dunia pemrograman Java, interface merupakan salah satu konsep penting yang memungkinkan pengem...</p></td>
+    <td style="border: 1px solid white; padding: 10px;"><h3><a href="https://medium.com/@dikaelsaputra/memahami-konsep-interface-dan-implementasinya-dalam-pemrograman-java-17ad4039398c?source=rss-272e0aace4a6------2" target="_blank" style="color: white; text-decoration: none;">Interface dan Implementasinya dalam Pemrograman Java</a></h3><p>Memahami Konsep Interface dan Implementasinya dalam Pemrograman JavaDalam dunia pemrograman Java, in...</p></td>
     <td style="border: 1px solid white; padding: 10px;"><img src="https://cdn-images-1.medium.com/max/750/0*yyQctNc5MEx_ABu2.png" alt="Post Image" style="width: 100px; height: auto;" /></td>
   </tr>
   <tr>
